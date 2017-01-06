@@ -12,6 +12,7 @@
  */
 html,
 body {
+    background-color: red;
   min-height: 100%;
 }
 .layout-boxed html,
